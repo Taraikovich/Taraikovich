@@ -1,16 +1,17 @@
+
 ### Hi there 👋
 
-<!--
-**Taraikovich/Taraikovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My pet projects**:
 
-Here are some ideas to get you started:
+ - https://taraikovich.github.io/shelter/
+ - https://taraikovich.github.io/rss-css-selectors/build/
+ - https://taraikovich.github.io/plants
+ - https://taraikovich.github.io/minesweeper/game/
+ - https://taraikovich.github.io/momentum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Contacts:** 
+
+ - 1033837@gmail.com
+ - skype: live:taraikovich_1
+ - telegram @Taraikovich
+
