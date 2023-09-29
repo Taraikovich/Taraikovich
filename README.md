@@ -3,6 +3,7 @@
 
 **My pet projects**:
 
+ - https://mellifluous-sprinkles-8aefaa.netlify.app/
  - https://taraikovich.github.io/shelter/
  - https://taraikovich.github.io/rss-css-selectors/build/
  - https://taraikovich.github.io/plants
