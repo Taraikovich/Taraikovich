@@ -3,7 +3,7 @@
 
 **Contacts:** 
 
- - 1033837@gmail.com
+ - taraikovi4@gmail.com
  - skype: live:taraikovich_1
  - telegram @Taraikovich
 
